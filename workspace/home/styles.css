@@ -1,0 +1,61 @@
+html {
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+#card {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid gray;
+    box-shadow: 5px 5px rgba(119, 101, 101, 0.3);
+
+
+}
+
+.title {
+    font-weight: bold;
+    
+
+}
+
+.picture {
+    width: 300px;
+    
+  
+}
+
+#card-info {
+    margin: 0px;
+    padding: 10px;
+    border: 1px solid grey;
+      
+
+}
+
+.fact {
+    font-style: italic;
+    font-size: 0.02px;
+    font-weight: bold;
+    padding: 1px;
+
+}
+
+.list {
+    list-style: none;
+    padding: 6px;
+   font-style: normal;
+    
+
+}
+
+.label {
+    font-weight: bold;
+    
+    
+}
+
+p {
+  font-style: italic;
+  font-weight: bold;
+
+}
